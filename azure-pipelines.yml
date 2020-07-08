@@ -19,4 +19,5 @@ steps:
     npm audit fix
     npm install
     npm run
+    npm start
   displayName: 'npm install and build'
